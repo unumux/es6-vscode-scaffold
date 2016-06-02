@@ -16,6 +16,8 @@ git clone https://github.com/unumux/es6-vscode-scaffold .
 git clone https://github.com/unumux/es6-vscode-scaffold ~/Documents/my-test-project
 ```
 
+After doing that, you will need to run `npm install`. You can do this from a terminal, or get the "npm" extension for Visual Studio Code and just press CMD+SHIFT+P and run "npm: install saved packages"  
+
 ## Usage
 
 To use the scaffold, open the folder inside Visual Studio Code. If you have the command line tools installed for Code, you can do this simply by running the following from the project folder inside terminal:
