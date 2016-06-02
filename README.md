@@ -2,6 +2,10 @@
 
 This is a really simple scaffold to use ES6 on Node, with some additional features for Visual Studio Code. It is already setup to use debugging out of the box. It also features ESLint (recommend using the ESLint extension for VSCode). 
 
+## Sharing
+
+If you want to be able to push this code back to Github to share with others, please be sure to fork the repo BEFORE cloning. Then clone from your Github URL instead of the one below. 
+
 ## Installation
 
 Use git to download the source code. With git clone, you can specify the folder to put the code in. For example:
@@ -36,4 +40,4 @@ For those who aren't using Visual Studio Code, to run from Terminal:
 
 ```baseh
 node entry.js
-``` 
+```
